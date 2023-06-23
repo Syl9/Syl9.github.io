@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>CS is fascinating!</title>
-      <link href="/2023/06/23/hello-world/"/>
-      <url>/2023/06/23/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to my personal website. I’ll record my CS learning process here. It’s my great pleasure that you take the time to know about me. Thank you for your precious attention! </p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>CS is fascinating!</title>
+    <url>/2023/06/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to my personal website. I’ll record my CS learning process here. It’s my great pleasure that you take the time to know about me. Thank you for your precious attention! </p>
+]]></content>
+  </entry>
 </search>
